@@ -1,0 +1,1 @@
+A small bandit group who are part of a larger bandit collective that are responsible for [[The Aldori Manor Raid]], [[Rocky Road|The Wagon Ambush]] and the [[Comeuppance|bandit raid]] on [[Oleg's Trading Post]].
