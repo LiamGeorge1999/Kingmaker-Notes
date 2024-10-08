@@ -6,16 +6,53 @@
       {
         "id": "270363da6396761c",
         "type": "tabs",
+        "dimension": 29.441624365482234,
         "children": [
           {
             "id": "f609f4fbba83f81a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Events Timeline/Events Timeline.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
+      },
+      {
+        "id": "a4055d4694651375",
+        "type": "tabs",
+        "dimension": 70.55837563451777,
+        "children": [
+          {
+            "id": "9de2c3b0fb84a60e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Kingdom of Pitax/Kingdom of Pitax.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "271c820ff30acc8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/The Stolen Lands/Northern Narlmarches/The Temple of the Elk.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Locations/The Stolen Lands/Northern Narlmarches/The Temple of the Elk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Locations/The Stolen Lands/Northern Narlmarches/The Temple of the Elk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Locations/The Stolen Lands/Northern Narlmarches/The Temple of the Elk.md"
+              }
             }
           }
         ]
@@ -139,41 +180,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f609f4fbba83f81a",
+  "active": "271c820ff30acc8f",
   "lastOpenFiles": [
-    "Locations/Oleg's Trading Post.md",
-    "Locations/Thorn River.md",
-    "Locations/Thorn River Bandit Hideout.md",
-    "Locations/The Temple of the Elk.md",
-    "Locations/Navatka's Crossing.md",
-    "Locations/Fort Serenko.md",
-    "Locations/Aldori Manor.md",
-    "Locations",
-    "Events Timeline/Unveiled.md",
-    "Events Timeline/Undead.md",
-    "Events Timeline/Unburied.md",
-    "Events Timeline/Tit for Tat.md",
-    "Events Timeline/The Feast at Aldori Manor.md",
-    "Events Timeline/The Aldori Manor Raid.md",
-    "Events Timeline/Rocky Road.md",
-    "Events Timeline/Opening the Eye.md",
+    "Locations/The Stolen Lands/Northern Narlmarches/Northern Narlmarches.md",
+    "Locations/The Stolen Lands/The Stolen Lands.md",
+    "Events Timeline/Events Timeline.md",
+    "Locations/Kingdom of Pitax/Kingdom of Pitax.md",
+    "Locations/Kingdom of Pitax/Pitax.md",
+    "Locations/Kingdom of Pitax",
+    "Locations/Untitled",
+    "Locations/The Stolen Lands/Northern Narlmarches",
+    "Locations/Kingom of Brevoy/Kingom of Brevoy.md",
+    "Locations/The Stolen Lands",
+    "Locations/Kingom of Brevoy",
+    "Artifacts/The Charter.md",
+    "Entities/Jamandi Aldori.md",
+    "Locations/Kingom of Brevoy/Aldori Manor.md",
+    "Locations/The Stolen Lands/Northern Narlmarches/Thorn River Bandit Hideout.md",
+    "Events Timeline/Unquiet.md",
+    "Locations/The Stolen Lands/Northern Narlmarches/Thorn River.md",
+    "Entities/Oleg.md",
+    "Events Timeline/Stand By Your Post.md",
+    "Entities/Svetlana.md",
+    "Entities/Tartucio.md",
+    "Entities/Valorie.md",
+    "Entities/Harrim.md",
+    "Entities/Groups/The Obsidian Eye/Pride.md",
+    "Events Timeline/Old Blades, New Blood.md",
     "Events Timeline/Old Friends, New Problems.md",
-    "Events Timeline/Old Blades and New Blood.md",
+    "Entities/Groups/House Quinn/Conláed Quinn.md",
+    "Entities/Lady Jamandi Aldori.md",
     "Events Timeline/Flies and Webs.md",
     "Events Timeline/False Haven.md",
-    "Events Timeline/Events Timeline.md",
-    "Events Timeline/Departure.md",
-    "Events Timeline/Comeuppance.md",
+    "Events Timeline/Tit for Tat.md",
+    "Locations",
     "Events Timeline",
-    "Entities/Groups/The Obsidian Eye/The Obsidian Eye.md",
-    "Entities/Groups/The Obsidian Eye/Victor.md",
-    "Entities/Groups/The Obsidian Eye/Thaeden Evergreen.md",
-    "Entities/Groups/The Obsidian Eye/Septus Valron.md",
     "Entities/Groups/The Obsidian Eye",
     "Entities/Groups/House Quinn",
-    "Entities/Groups",
-    "Entities/Deities",
-    "Entities",
-    "Artifacts"
+    "Entities/Groups"
   ]
 }

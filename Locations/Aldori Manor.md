@@ -1,1 +1,0 @@
-The manor of [[Jamandi Aldori|Lady Jamandi Aldori]]. It was raided during the night after [[The Feast at Aldori Manor]]

@@ -1,4 +1,4 @@
-[[Ronán Quinn|Ronán]], [[Thaeden Evergreen|Thaeden]], [[Victor]], [[Jaethal]] and [[Lindzi]] made their way from [[Aldori Manor]] westward towards [[Oleg's Trading Post]] via [[Navatka's Crossing]], stalked along the way by some bandits. Passing through the crossing, they heard tell of a bandit lord and a mad hermit, and stopped for the night.
+[[Ronán Quinn|Ronán]], [[Thaeden Evergreen|Thaeden]], [[Victor]], [[Jaethal (Deceased)]] and [[Lindzi]] made their way from [[Aldori Manor]] westward towards [[Oleg's Trading Post]] via [[Navatka's Crossing]], stalked along the way by some bandits. Passing through the crossing, they heard tell of a bandit lord and a mad hermit, and stopped for the night.
 
 They found a trader heading west to [[Oleg's Trading Post|Oleg's Post]] and bargained to protect him and his wares - just turnips - in exchange for a ride on his cart.
 
