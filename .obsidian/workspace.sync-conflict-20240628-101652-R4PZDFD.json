@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "bfc2a0d0af28991a",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd41325be200a322",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "152487fa1a9d4c2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Groups/House Quinn/Conláed Quinn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3d17fedbc593d961",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Groups/House Quinn/House Quinn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ce71bc21f17ad964",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3a46a20573d1bda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1490f25da9a3df33",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "476cb858a7e9632b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "12b87407566968ad",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "9963bd0b2b6595fe",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "f904d1dccf5bcb10",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7337e6ed2ce3a62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2a546f23b433d86",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Characters/Groups/House Quinn/Conláed Quinn.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "632ab88a5417910e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Characters/Groups/House Quinn/Conláed Quinn.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "38419c57496d61f4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "aa4e353bd233d51f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Characters/Groups/House Quinn/Conláed Quinn.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "152487fa1a9d4c2b",
+  "lastOpenFiles": [
+    "Characters/Groups/House Quinn/Gráinne Fionnúir-Quinn.md",
+    "Characters/Groups/House Quinn/Áine Fionnúir-Quinn (Deceased).md",
+    "Characters/Groups/House Quinn/Róisín Quinn.md",
+    "Characters/Groups/House Quinn/Duinn Quinn.md",
+    "Characters/Groups/House Quinn/Conláed Quinn.md",
+    "Characters/Groups/The Obsidian Eye/Ronán Quinn.md",
+    "Characters/Groups/House Quinn/Áos Quinn (Deceased).md",
+    "Characters/Groups/The Obsidian Eye/Lindzi.md",
+    "Characters/Groups/House Quinn/House Quinn.md",
+    "Characters/Groups/The Obsidian Eye/Jaethal.md",
+    "Events Timeline/Events Timeline.md",
+    "Characters/Groups/The Obsidian Eye/The Obsidian Eye.md",
+    "Old Friends and New Problems.md",
+    "Characters/Groups/The Obsidian Eye/Victor.md",
+    "Characters/Groups/The Obsidian Eye/Thaeden Evergreen.md",
+    "Characters/Groups/The Obsidian Eye/Septus Valron.md",
+    "Characters/Groups/The Obsidian Eye/Ameri.md",
+    "Characters/Oleg.md",
+    "Characters/Lady Jamandi Aldori.md",
+    "Events Timeline/Opening the Eye.md",
+    "Characters/Groups/Untitled.md",
+    "Characters/Svetlana.md",
+    "Characters/Groups/The Obsidian Eye",
+    "Events Timeline/The Feast at Aldori Manor.md",
+    "Events Timeline",
+    "Untitled.md",
+    "Places/Aldori Manor.md",
+    "Events Timeline/The Aldori Manor Raid.md",
+    "Characters/Groups/House Quinn",
+    "Characters/Groups",
+    "Artifacts",
+    "Events",
+    "Places",
+    "Characters",
+    "timeline-snippet.css",
+    "timeline-snippet.css.txt"
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "6f24f19afd6b092a",
+    "type": "split",
+    "children": [
+      {
+        "id": "270363da6396761c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f609f4fbba83f81a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "17a57af78f3ef38c",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ddabe71884304ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b295efaa1b48379",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "829ae1a50b372c23",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7c80a2e4cb902a4d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b5f70168a294be32",
+    "type": "split",
+    "children": [
+      {
+        "id": "80c663e75656e78a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c927449be982899b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0043723861882aee",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "17b792a8cb013b80",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0d924fc82a3f7dc0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "f609f4fbba83f81a",
+  "lastOpenFiles": [
+    "Locations/Oleg's Trading Post.md",
+    "Locations/Thorn River.md",
+    "Locations/Thorn River Bandit Hideout.md",
+    "Locations/The Temple of the Elk.md",
+    "Locations/Navatka's Crossing.md",
+    "Locations/Fort Serenko.md",
+    "Locations/Aldori Manor.md",
+    "Locations",
+    "Events Timeline/Unveiled.md",
+    "Events Timeline/Undead.md",
+    "Events Timeline/Unburied.md",
+    "Events Timeline/Tit for Tat.md",
+    "Events Timeline/The Feast at Aldori Manor.md",
+    "Events Timeline/The Aldori Manor Raid.md",
+    "Events Timeline/Rocky Road.md",
+    "Events Timeline/Opening the Eye.md",
+    "Events Timeline/Old Friends, New Problems.md",
+    "Events Timeline/Old Blades and New Blood.md",
+    "Events Timeline/Flies and Webs.md",
+    "Events Timeline/False Haven.md",
+    "Events Timeline/Events Timeline.md",
+    "Events Timeline/Departure.md",
+    "Events Timeline/Comeuppance.md",
+    "Events Timeline",
+    "Entities/Groups/The Obsidian Eye/The Obsidian Eye.md",
+    "Entities/Groups/The Obsidian Eye/Victor.md",
+    "Entities/Groups/The Obsidian Eye/Thaeden Evergreen.md",
+    "Entities/Groups/The Obsidian Eye/Septus Valron.md",
+    "Entities/Groups/The Obsidian Eye",
+    "Entities/Groups/House Quinn",
+    "Entities/Groups",
+    "Entities/Deities",
+    "Entities",
+    "Artifacts"
+  ]
+}
